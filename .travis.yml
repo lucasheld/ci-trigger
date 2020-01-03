@@ -5,4 +5,6 @@ script: ./run.sh
 notifications:
   email:
     disabled: true
+    on_success: never
+    on_failure: never
 
