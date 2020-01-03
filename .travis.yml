@@ -1,3 +1,7 @@
 language: bash
+
 script: ./run.sh
+
+notifications:
+  email: false
 
