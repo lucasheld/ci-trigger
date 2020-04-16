@@ -7,4 +7,3 @@ notifications:
     disabled: true
     on_success: never
     on_failure: never
-
